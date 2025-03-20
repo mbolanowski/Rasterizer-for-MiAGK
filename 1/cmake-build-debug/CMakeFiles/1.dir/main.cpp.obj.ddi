@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\1.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\2sem\\magik\\1\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\1.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
